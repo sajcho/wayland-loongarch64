@@ -1,0 +1,6 @@
+# wayland-loongarch64 ports collection
+#
+# https://github.com/sajcho/wayland-loongarch64
+
+ROOT_DIR=/usr/ports/wayland-loongarch64
+URL=https://raw.githubusercontent.com/sajcho/wayland-loongarch64/main
